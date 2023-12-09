@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: monospace;
+    font-weight: 300;
+}
+
+#app {
+    background: linear-gradient(cyan,lime,black,aqua,crimson);
+}
+
+#game{
+    background: linear-gradient(cyan,lime,black,aqua,crimson);
+}
+
+.line {
+    height: 6px;
+    background: linear-gradient(cyan,lime,black,aqua,crimson);
+    width: 70px;
+    margin: 8px auto;
+}
